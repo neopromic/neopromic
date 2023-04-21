@@ -6,11 +6,11 @@ Hi there, thanks for stopping by, this is **Wesley Souza**.
 
 ```javascript
 
-const charles = {
+const wesley = {
 
     pronouns: "He" | "Him",
 
-    askMeAbout: ["web dev", "tech", "game"],
+    askMeAbout: ["web dev", "tech", "games", "mobile dev", "fit"],
 
     technologies: {
 
@@ -20,13 +20,10 @@ const charles = {
 
             css: ["bootstrap", "sass"]
 
-        },
-
-        backEnd: ["Java", "PHP"],
-
-        databases: ["MySql", "oracle"],
-
-    }
+        }
+        
+        
+        
 
 };
 
