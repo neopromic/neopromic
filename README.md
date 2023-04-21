@@ -16,9 +16,9 @@ const wesley = {
 
         frontEnd: {
 
-            js: ["Vue", "React", "Angular"],
+            js: ["React", "Vue"],
 
-            css: ["bootstrap", "sass"]
+            css: ["bootstrap", "tailwind", "sass"]
 
         }
         
