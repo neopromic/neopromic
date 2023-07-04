@@ -1,8 +1,4 @@
-
-
-Hi there, thanks for stopping by, this is **Wesley Souza**.
-
-<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="150">
 
 ```javascript
 
@@ -20,7 +16,7 @@ const wesley = {
 
             css: ["bootstrap", "tailwind", "sass"]
 
-        }
+        },
         
        }
         
