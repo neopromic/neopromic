@@ -12,7 +12,7 @@ const wesley = {
 
         frontEnd: {
 
-            js: ["React", "Vue"],
+            js: ["React"],
 
             css: ["bootstrap", "tailwind", "sass"]
 
@@ -25,7 +25,7 @@ const wesley = {
 
 ```
 
-![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=neopromic&hide=contribs,prs&count_private=true&show_icons=true)
+![neo github stats](https://github-readme-stats.vercel.app/api?username=neopromic&hide=contribs,prs&count_private=false&show_icons=true)
 
 <a href="https://github.com/neopromic">
 
@@ -38,8 +38,6 @@ const wesley = {
    <img src="https://komarev.com/ghpvc/?username=neopromic">
 
 </a>
-
-![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
 ---
 
